@@ -1,0 +1,6 @@
+@PlannerTracker.API_HostAddress = http://localhost:5078
+
+GET {{PlannerTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
